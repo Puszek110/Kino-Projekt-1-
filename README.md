@@ -6,3 +6,8 @@ Założenia:
 3. Możliwość dodania rekordu 
 4. 4. Możliwość Usunięcia rekordu 
 5. 5. Możliwość sortowania danych w tabeli bazy danych
+#Kino-prokjekt-2
+Założenia:
+1.Połączenie aplikacji ze stroną do rezerwacji miejsc w kinie poprzez bazę danych
+2.Klient będzie mógł rezerwować miejsce poprzez strone
+3.Administrator porzez aplikacje będzie mógł zmieniać repertuar na stronie oraz wgląd w rezerwacje 
